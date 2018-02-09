@@ -4,7 +4,7 @@
 "varlabels": ["Count","Employment","Employees","Turnover"],
 "varload": 2,
 "varunit": "% change",
-"displaydecimals": 1,
+"displaydecimals": 0,
 "legenddecimals": 0,
 "breaks": "jenks",
 "dropticks": false,
