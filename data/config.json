@@ -3,7 +3,7 @@
 "varcolour": "YlGnBu",
 "varlabels": ["Count","Employment","Employees","Turnover"],
 "varload": 2,
-"varunit": "% change",
+"varunit": "",
 "displaydecimals": 0,
 "legenddecimals": 0,
 "breaks": "jenks",
