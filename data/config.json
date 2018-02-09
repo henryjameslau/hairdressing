@@ -2,7 +2,7 @@
 "maptitle": "Mapping the hairdressing industry",
 "varcolour": "YlGnBu",
 "varlabels": ["Count","Employment","Employees","Turnover"],
-"varload": 2,
+"varload": 0,
 "varunit": "",
 "displaydecimals": 0,
 "legenddecimals": 0,
