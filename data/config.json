@@ -1,0 +1,12 @@
+{"ons":{
+"maptitle": "Multi Map about life expectancy",
+"varcolour": "YlGnBu",
+"varlabels": ["Count","Employment","Employees","Turnover"],
+"varload": 2,
+"varunit": "% change",
+"displaydecimals": 1,
+"legenddecimals": 0,
+"breaks": "jenks",
+"dropticks": false,
+"numberBreaks": 5
+}}
